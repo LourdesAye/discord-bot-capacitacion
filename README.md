@@ -46,7 +46,7 @@ DEFAULT_CHANNEL_ID=    # ID de canal por defecto (opcional)
 DEBUG=True             # Modo de depuración (True/False)
 ```    
 
-    ⚠️ Nunca se sube el .env a GitHub (contiene información sensible). El archivo .env.example es el modelo compartible.  
+⚠️ Nunca se sube el .env a GitHub (contiene información sensible). El archivo .env.example es el modelo compartible.  
 
 
 4. Activar el entorno virtual  
